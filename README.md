@@ -1,3 +1,2 @@
 # Projeto_Globo
-Projeto_Globo
-![Texto Alternativo](capa.png)
+![Foto do projeto](capa.png)
